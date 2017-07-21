@@ -1,4 +1,4 @@
-package org.yogakurniawan.model.security;
+package org.yogakurniawan.security.model;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;

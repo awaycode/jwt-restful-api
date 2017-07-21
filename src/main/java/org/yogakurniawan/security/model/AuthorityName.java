@@ -1,4 +1,4 @@
-package org.yogakurniawan.model.security;
+package org.yogakurniawan.security.model;
 
 public enum AuthorityName {
     ROLE_USER, ROLE_ADMIN

@@ -4,6 +4,9 @@ server:
 
 # JACKSON
 spring:
+  data:
+    rest:
+      base-path: /api
   jackson:
     serialization:
       INDENT_OUTPUT: true

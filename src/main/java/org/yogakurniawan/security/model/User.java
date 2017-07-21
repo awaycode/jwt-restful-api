@@ -1,4 +1,4 @@
-package org.yogakurniawan.model.security;
+package org.yogakurniawan.security.model;
 
 import java.util.Date;
 import java.util.List;
