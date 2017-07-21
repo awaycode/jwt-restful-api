@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.zerhusen</groupId>
-    <artifactId>jwt-spring-security-demo</artifactId>
+    <groupId>org.yogakurniawan</groupId>
+    <artifactId>jwt-restful-api</artifactId>
     <version>0.2.0</version>
     <packaging>jar</packaging>
 
-    <name>jwt-spring-security-demo</name>
-    <description>Demo project for JWT with Spring Boot and Spring Security</description>
+    <name>jwt-restful-api</name>
+    <description>RESTful Api implementing JWT with Spring Boot and Spring Security</description>
 
     <licenses>
         <license>
@@ -20,15 +20,15 @@
 
     <developers>
         <developer>
-            <name>Stephan Zerhusen</name>
-            <email>stephan.zerhusen@gmail.com</email>
+            <name>Yoga Kurniawan</name>
+            <email>yogaygk@gmail.com</email>
         </developer>
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/szerhusenBC/jwt-spring-security-demo.git</connection>
-        <url>https://github.com/szerhusenBC/jwt-spring-security-demo</url>
-        <developerConnection>scm:git:git@github.com/szerhusenBC/jwt-spring-security-demo.git</developerConnection>
+        <connection>scm:git:git://github.com/yogakurniawan/jwt-restful-api.git</connection>
+        <url>https://github.com/yogakurniawan/jwt-restful-api</url>
+        <developerConnection>scm:git:git@github.com/yogakurniawan/jwt-restful-api.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
